@@ -1,7 +1,0 @@
-= Hello
-
-Paragraph
-
-== Does it work?
-
-Maybe
