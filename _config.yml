@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
 baseurl: "/test-pages"
+excerpt_separator: <!--more-->

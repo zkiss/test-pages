@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Testing blog engine (title)
-tags: asd1 asd2 testing
+title: A post title
+tags: [asd1, asd2, testing]
 ---
 
-Testing blog engine
+Testing blog engine by showing off my java skills
+
+<!--more-->
 
 ```java
 public class Test {
