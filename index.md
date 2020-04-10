@@ -1,6 +1,7 @@
 ---
-layout:default
+layout: default
 ---
+
 # Hello!
 
 Here is a random [test page]({% link test.md %})
