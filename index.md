@@ -4,7 +4,7 @@ layout: default
 
 # Hello!
 
-Here is a random [test page]({% link test.md %})
+Here is a random [test page]({% link /test.md %})
 
 Here are all the blogposts so far:
 
