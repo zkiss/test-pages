@@ -6,6 +6,8 @@ layout: default
 
 Here is a random [test page]({% link /test.md %})
 
+My favourite post is [this]({% post 2017-10-28-testing-post.md %})
+
 Here are all the blogposts so far:
 
 <ul>
